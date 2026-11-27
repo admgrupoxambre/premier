@@ -1,0 +1,384 @@
+{
+  "versao": 1,
+  "licenca": "CC0-1.0",
+  "unidade": "metro",
+  "eixo_up": "+Y",
+  "frente": "+Z",
+  "rig": "MPFB game_engine (nomes no estilo UE4 Mannequin)",
+  "corpos": {
+    "masculino": {
+      "lods": [
+        {
+          "arquivo": "corpo_masculino_lod0.glb",
+          "tris": 22629,
+          "bytes": 1059864
+        },
+        {
+          "arquivo": "corpo_masculino_lod1.glb",
+          "tris": 8952,
+          "bytes": 566792
+        }
+      ],
+      "altura_m": 1.7747,
+      "ossos": [
+        "Root",
+        "pelvis",
+        "spine_01",
+        "spine_02",
+        "spine_03",
+        "clavicle_l",
+        "upperarm_l",
+        "lowerarm_l",
+        "hand_l",
+        "index_01_l",
+        "index_02_l",
+        "index_03_l",
+        "middle_01_l",
+        "middle_02_l",
+        "middle_03_l",
+        "pinky_01_l",
+        "pinky_02_l",
+        "pinky_03_l",
+        "ring_01_l",
+        "ring_02_l",
+        "ring_03_l",
+        "thumb_01_l",
+        "thumb_02_l",
+        "thumb_03_l",
+        "clavicle_r",
+        "upperarm_r",
+        "lowerarm_r",
+        "hand_r",
+        "index_01_r",
+        "index_02_r",
+        "index_03_r",
+        "middle_01_r",
+        "middle_02_r",
+        "middle_03_r",
+        "pinky_01_r",
+        "pinky_02_r",
+        "pinky_03_r",
+        "ring_01_r",
+        "ring_02_r",
+        "ring_03_r",
+        "thumb_01_r",
+        "thumb_02_r",
+        "thumb_03_r",
+        "neck_01",
+        "head",
+        "thigh_l",
+        "calf_l",
+        "foot_l",
+        "ball_l",
+        "thigh_r",
+        "calf_r",
+        "foot_r",
+        "ball_r"
+      ],
+      "morphs": [
+        "peso_mais",
+        "peso_menos",
+        "musculo_mais",
+        "musculo_menos",
+        "ombros_largos",
+        "quadril_largo",
+        "cintura_fina",
+        "barriga",
+        "rosto_largo",
+        "rosto_estreito",
+        "rosto_redondo",
+        "rosto_quadrado",
+        "rosto_oval",
+        "queixo_largo",
+        "queixo_proeminente",
+        "nariz_largo",
+        "nariz_fino",
+        "labios_cheios",
+        "olhos_grandes",
+        "bochechas_cheias",
+        "piscar_esquerdo",
+        "piscar_direito",
+        "boca_aberta",
+        "sorriso",
+        "sobrancelhas_erguidas",
+        "sobrancelhas_franzidas",
+        "bico"
+      ],
+      "biotipos": {
+        "magro": {
+          "peso_menos": 0.6,
+          "musculo_menos": 0.25
+        },
+        "medio": {},
+        "atletico": {
+          "musculo_mais": 1.0,
+          "peso_mais": 0.15,
+          "ombros_largos": 0.5,
+          "cintura_fina": 0.3
+        },
+        "robusto": {
+          "peso_mais": 0.65,
+          "barriga": 0.15
+        }
+      },
+      "malhas_no_corpo": [
+        "corpo",
+        "olhos",
+        "dentes",
+        "lingua",
+        "sobrancelhas",
+        "cilios"
+      ],
+      "sobrancelha_padrao": "eyebrow001",
+      "cilios_padrao": "eyelashes01",
+      "cabelos": [
+        {
+          "arquivo": "cabelo_afro01_masculino.glb",
+          "tris": 2192,
+          "bytes": 589984
+        },
+        {
+          "arquivo": "cabelo_bob02_masculino.glb",
+          "tris": 2248,
+          "bytes": 337716
+        },
+        {
+          "arquivo": "cabelo_long01_masculino.glb",
+          "tris": 4000,
+          "bytes": 349968
+        },
+        {
+          "arquivo": "cabelo_ponytail01_masculino.glb",
+          "tris": 3999,
+          "bytes": 471492
+        },
+        {
+          "arquivo": "cabelo_short02_masculino.glb",
+          "tris": 3344,
+          "bytes": 275340
+        },
+        {
+          "arquivo": "cabelo_short04_masculino.glb",
+          "tris": 1050,
+          "bytes": 291456
+        }
+      ],
+      "sobrancelhas": [
+        {
+          "arquivo": "sobrancelha_eyebrow001_masculino.glb",
+          "bytes": 71888
+        },
+        {
+          "arquivo": "sobrancelha_eyebrow006_masculino.glb",
+          "bytes": 45492
+        },
+        {
+          "arquivo": "sobrancelha_eyebrow010_masculino.glb",
+          "bytes": 70896
+        }
+      ],
+      "cilios": [
+        {
+          "arquivo": "cilios_eyelashes01_masculino.glb",
+          "bytes": 81580
+        },
+        {
+          "arquivo": "cilios_eyelashes02_masculino.glb",
+          "bytes": 107876
+        },
+        {
+          "arquivo": "cilios_eyelashes03_masculino.glb",
+          "bytes": 108164
+        }
+      ]
+    },
+    "feminino": {
+      "lods": [
+        {
+          "arquivo": "corpo_feminino_lod0.glb",
+          "tris": 22629,
+          "bytes": 1075744
+        },
+        {
+          "arquivo": "corpo_feminino_lod1.glb",
+          "tris": 8952,
+          "bytes": 592360
+        }
+      ],
+      "altura_m": 1.5698,
+      "ossos": [
+        "Root",
+        "pelvis",
+        "spine_01",
+        "spine_02",
+        "spine_03",
+        "clavicle_l",
+        "upperarm_l",
+        "lowerarm_l",
+        "hand_l",
+        "index_01_l",
+        "index_02_l",
+        "index_03_l",
+        "middle_01_l",
+        "middle_02_l",
+        "middle_03_l",
+        "pinky_01_l",
+        "pinky_02_l",
+        "pinky_03_l",
+        "ring_01_l",
+        "ring_02_l",
+        "ring_03_l",
+        "thumb_01_l",
+        "thumb_02_l",
+        "thumb_03_l",
+        "clavicle_r",
+        "upperarm_r",
+        "lowerarm_r",
+        "hand_r",
+        "index_01_r",
+        "index_02_r",
+        "index_03_r",
+        "middle_01_r",
+        "middle_02_r",
+        "middle_03_r",
+        "pinky_01_r",
+        "pinky_02_r",
+        "pinky_03_r",
+        "ring_01_r",
+        "ring_02_r",
+        "ring_03_r",
+        "thumb_01_r",
+        "thumb_02_r",
+        "thumb_03_r",
+        "neck_01",
+        "head",
+        "thigh_l",
+        "calf_l",
+        "foot_l",
+        "ball_l",
+        "thigh_r",
+        "calf_r",
+        "foot_r",
+        "ball_r"
+      ],
+      "morphs": [
+        "peso_mais",
+        "peso_menos",
+        "musculo_mais",
+        "musculo_menos",
+        "seios_mais",
+        "seios_menos",
+        "ombros_largos",
+        "quadril_largo",
+        "cintura_fina",
+        "barriga",
+        "rosto_largo",
+        "rosto_estreito",
+        "rosto_redondo",
+        "rosto_quadrado",
+        "rosto_oval",
+        "queixo_largo",
+        "queixo_proeminente",
+        "nariz_largo",
+        "nariz_fino",
+        "labios_cheios",
+        "olhos_grandes",
+        "bochechas_cheias",
+        "piscar_esquerdo",
+        "piscar_direito",
+        "boca_aberta",
+        "sorriso",
+        "sobrancelhas_erguidas",
+        "sobrancelhas_franzidas",
+        "bico"
+      ],
+      "biotipos": {
+        "magro": {
+          "peso_menos": 0.6,
+          "musculo_menos": 0.25
+        },
+        "medio": {},
+        "atletico": {
+          "musculo_mais": 1.0,
+          "peso_mais": 0.15,
+          "ombros_largos": 0.5,
+          "cintura_fina": 0.3
+        },
+        "robusto": {
+          "peso_mais": 0.65,
+          "barriga": 0.15
+        }
+      },
+      "malhas_no_corpo": [
+        "corpo",
+        "olhos",
+        "dentes",
+        "lingua",
+        "sobrancelhas",
+        "cilios"
+      ],
+      "sobrancelha_padrao": "eyebrow010",
+      "cilios_padrao": "eyelashes02",
+      "cabelos": [
+        {
+          "arquivo": "cabelo_afro01_feminino.glb",
+          "tris": 2192,
+          "bytes": 576668
+        },
+        {
+          "arquivo": "cabelo_bob02_feminino.glb",
+          "tris": 2248,
+          "bytes": 323348
+        },
+        {
+          "arquivo": "cabelo_long01_feminino.glb",
+          "tris": 4000,
+          "bytes": 348816
+        },
+        {
+          "arquivo": "cabelo_ponytail01_feminino.glb",
+          "tris": 4000,
+          "bytes": 449212
+        },
+        {
+          "arquivo": "cabelo_short02_feminino.glb",
+          "tris": 3344,
+          "bytes": 265540
+        },
+        {
+          "arquivo": "cabelo_short04_feminino.glb",
+          "tris": 1050,
+          "bytes": 284560
+        }
+      ],
+      "sobrancelhas": [
+        {
+          "arquivo": "sobrancelha_eyebrow001_feminino.glb",
+          "bytes": 71516
+        },
+        {
+          "arquivo": "sobrancelha_eyebrow006_feminino.glb",
+          "bytes": 45228
+        },
+        {
+          "arquivo": "sobrancelha_eyebrow010_feminino.glb",
+          "bytes": 70596
+        }
+      ],
+      "cilios": [
+        {
+          "arquivo": "cilios_eyelashes01_feminino.glb",
+          "bytes": 81328
+        },
+        {
+          "arquivo": "cilios_eyelashes02_feminino.glb",
+          "bytes": 107240
+        },
+        {
+          "arquivo": "cilios_eyelashes03_feminino.glb",
+          "bytes": 107512
+        }
+      ]
+    }
+  }
+}

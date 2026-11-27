@@ -1,0 +1,6898 @@
+{
+ "versao": 1,
+ "observacao": "PROTÓTIPO — catálogo de demonstração com dados fictícios. Peças sem arquivo3d usam geometria provisória gerada em código.",
+ "cabelos": [
+  {
+   "id": "careca",
+   "nome": "Careca",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "compatibilidade": {
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   }
+  },
+  {
+   "id": "raspado",
+   "nome": "Raspado",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "curto",
+   "nome": "Curto",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "topete",
+   "nome": "Topete",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "moicano",
+   "nome": "Moicano",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "longo",
+   "nome": "Longo",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "cacheado",
+   "nome": "Cacheado",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "blackpower",
+   "nome": "Black power",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "trancas",
+   "nome": "Tranças",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "coque",
+   "nome": "Coque",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "rabo",
+   "nome": "Rabo de cavalo",
+   "arquivo3d": null,
+   "status": "publicado",
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "mh-curto",
+   "nome": "Curto",
+   "arquivo3d": "./modelos/corpo/makehuman/cabelo_short02_{sexo}.glb",
+   "skinned": true,
+   "status": "publicado",
+   "compatibilidade": {
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman / MPFB",
+    "url_origem": "https://static.makehumancommunity.org/",
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "categoria": "cabelo"
+  },
+  {
+   "id": "mh-bem-curto",
+   "nome": "Bem curto",
+   "arquivo3d": "./modelos/corpo/makehuman/cabelo_short04_{sexo}.glb",
+   "skinned": true,
+   "status": "publicado",
+   "compatibilidade": {
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman / MPFB",
+    "url_origem": "https://static.makehumancommunity.org/",
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "categoria": "cabelo"
+  },
+  {
+   "id": "mh-chanel",
+   "nome": "Chanel",
+   "arquivo3d": "./modelos/corpo/makehuman/cabelo_bob02_{sexo}.glb",
+   "skinned": true,
+   "status": "publicado",
+   "compatibilidade": {
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman / MPFB",
+    "url_origem": "https://static.makehumancommunity.org/",
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "categoria": "cabelo"
+  },
+  {
+   "id": "mh-longo",
+   "nome": "Longo",
+   "arquivo3d": "./modelos/corpo/makehuman/cabelo_long01_{sexo}.glb",
+   "skinned": true,
+   "status": "publicado",
+   "compatibilidade": {
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman / MPFB",
+    "url_origem": "https://static.makehumancommunity.org/",
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "categoria": "cabelo"
+  },
+  {
+   "id": "mh-rabo",
+   "nome": "Rabo de cavalo",
+   "arquivo3d": "./modelos/corpo/makehuman/cabelo_ponytail01_{sexo}.glb",
+   "skinned": true,
+   "status": "publicado",
+   "compatibilidade": {
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman / MPFB",
+    "url_origem": "https://static.makehumancommunity.org/",
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "categoria": "cabelo"
+  },
+  {
+   "id": "mh-black-power",
+   "nome": "Black power",
+   "arquivo3d": "./modelos/corpo/makehuman/cabelo_afro01_{sexo}.glb",
+   "skinned": true,
+   "status": "publicado",
+   "compatibilidade": {
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman / MPFB",
+    "url_origem": "https://static.makehumancommunity.org/",
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "categoria": "cabelo"
+  }
+ ],
+ "itens": [
+  {
+   "id": "camiseta",
+   "nome": "Camiseta",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Camisetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "curta",
+    "gola": "redonda"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#232323",
+      "terciaria": "#232323",
+      "tinta": "#141414"
+     }
+    },
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f2f2f2",
+      "detalhe": "#e2e2e2",
+      "terciaria": "#e2e2e2",
+      "tinta": "#f2f2f2"
+     }
+    },
+    {
+     "id": "premier",
+     "nome": "Laranja PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#e07a00",
+      "tinta": "#f88e12"
+     }
+    },
+    {
+     "id": "amarelo",
+     "nome": "Amarelo",
+     "cores": {
+      "base": "#f5c400",
+      "detalhe": "#d9ad00",
+      "terciaria": "#d9ad00",
+      "tinta": "#f5c400"
+     }
+    },
+    {
+     "id": "laranja-aw",
+     "nome": "Laranja Artwalk",
+     "cores": {
+      "base": "#ff6a1a",
+      "detalhe": "#e25510",
+      "terciaria": "#e25510",
+      "tinta": "#ff6a1a"
+     }
+    },
+    {
+     "id": "azul",
+     "nome": "Azul Royal",
+     "cores": {
+      "base": "#2457a8",
+      "detalhe": "#1c4688",
+      "terciaria": "#1c4688",
+      "tinta": "#2457a8"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#1f9e6a",
+      "detalhe": "#178054",
+      "terciaria": "#178054",
+      "tinta": "#1f9e6a"
+     }
+    },
+    {
+     "id": "rosa",
+     "nome": "Rosa",
+     "cores": {
+      "base": "#d94a68",
+      "detalhe": "#bb3654",
+      "terciaria": "#bb3654",
+      "tinta": "#d94a68"
+     }
+    },
+    {
+     "id": "roxo",
+     "nome": "Roxo",
+     "cores": {
+      "base": "#6e4bd1",
+      "detalhe": "#5a3bb4",
+      "terciaria": "#5a3bb4",
+      "tinta": "#6e4bd1"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza Mescla",
+     "cores": {
+      "base": "#8d8d8d",
+      "detalhe": "#7a7a7a",
+      "terciaria": "#7a7a7a",
+      "tinta": "#8d8d8d"
+     }
+    },
+    {
+     "id": "vinho",
+     "nome": "Vinho",
+     "cores": {
+      "base": "#6e1426",
+      "detalhe": "#5a0f1e",
+      "terciaria": "#5a0f1e",
+      "tinta": "#6e1426"
+     }
+    },
+    {
+     "id": "areia",
+     "nome": "Areia",
+     "cores": {
+      "base": "#c9b48a",
+      "detalhe": "#b39d72",
+      "terciaria": "#b39d72",
+      "tinta": "#c9b48a"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ampla.md"
+   },
+   "roupaMH": "camiseta_ampla",
+   "skinned": true
+  },
+  {
+   "id": "polo",
+   "nome": "Polo",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Camisetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "curta",
+    "gola": "polo"
+   },
+   "colorways": [
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f2f2f2",
+      "detalhe": "#e2e2e2",
+      "terciaria": "#e2e2e2"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#232323",
+      "terciaria": "#232323"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Marinho",
+     "cores": {
+      "base": "#1f2c45",
+      "detalhe": "#18233a",
+      "terciaria": "#18233a"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#1f9e6a",
+      "detalhe": "#178054",
+      "terciaria": "#178054"
+     }
+    },
+    {
+     "id": "vinho",
+     "nome": "Vinho",
+     "cores": {
+      "base": "#6e1426",
+      "detalhe": "#5a0f1e",
+      "terciaria": "#5a0f1e"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "regata",
+   "nome": "Regata",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Camisetas",
+   "modelo": {
+    "corpo": "justa",
+    "manga": "nenhuma",
+    "gola": "regata"
+   },
+   "colorways": [
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f2f2f2",
+      "detalhe": "#e2e2e2",
+      "terciaria": "#e2e2e2"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#232323",
+      "terciaria": "#232323"
+     }
+    },
+    {
+     "id": "premier",
+     "nome": "Laranja PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#e07a00"
+     }
+    },
+    {
+     "id": "azul",
+     "nome": "Azul Royal",
+     "cores": {
+      "base": "#2457a8",
+      "detalhe": "#1c4688",
+      "terciaria": "#1c4688"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza Mescla",
+     "cores": {
+      "base": "#8d8d8d",
+      "detalhe": "#7a7a7a",
+      "terciaria": "#7a7a7a"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "aw",
+   "nome": "Camiseta Artwalk",
+   "marca": "Artwalk",
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Das lojas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "curta",
+    "gola": "redonda",
+    "faixaPeito": true
+   },
+   "colorways": [
+    {
+     "id": "laranja",
+     "nome": "Laranja Artwalk",
+     "cores": {
+      "base": "#ff6a1a",
+      "detalhe": "#141414",
+      "terciaria": "#141414",
+      "tinta": "#ff6a1a"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto & Laranja",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#ff6a1a",
+      "terciaria": "#ff6a1a",
+      "tinta": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ampla.md"
+   },
+   "roupaMH": "camiseta_ampla",
+   "skinned": true
+  },
+  {
+   "id": "af",
+   "nome": "Camiseta Authentic Feet",
+   "marca": "Authentic Feet",
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Das lojas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "curta",
+    "gola": "redonda",
+    "faixaPeito": true
+   },
+   "colorways": [
+    {
+     "id": "amarelo",
+     "nome": "Amarelo AF",
+     "cores": {
+      "base": "#f5c400",
+      "detalhe": "#141414",
+      "terciaria": "#141414",
+      "tinta": "#f5c400"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto & Amarelo",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#f5c400",
+      "terciaria": "#f5c400",
+      "tinta": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ampla.md"
+   },
+   "roupaMH": "camiseta_ampla",
+   "skinned": true
+  },
+  {
+   "id": "unaw",
+   "nome": "Uniforme Artwalk",
+   "marca": "Artwalk",
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Das lojas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "curta",
+    "gola": "polo",
+    "faixaManga": true
+   },
+   "colorways": [
+    {
+     "id": "loja",
+     "nome": "Uniforme da loja",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#ff6a1a",
+      "terciaria": "#ff6a1a",
+      "tinta": "#151515"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ajustada.md"
+   },
+   "roupaMH": "camiseta_ajustada",
+   "skinned": true
+  },
+  {
+   "id": "unaf",
+   "nome": "Uniforme Authentic Feet",
+   "marca": "Authentic Feet",
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Das lojas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "curta",
+    "gola": "polo",
+    "faixaManga": true
+   },
+   "colorways": [
+    {
+     "id": "loja",
+     "nome": "Uniforme da loja",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#f5c400",
+      "terciaria": "#f5c400",
+      "tinta": "#151515"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ajustada.md"
+   },
+   "roupaMH": "camiseta_ajustada",
+   "skinned": true
+  },
+  {
+   "id": "jaqaw",
+   "nome": "Jaqueta Artwalk Black",
+   "marca": "Artwalk",
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Conquistas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "alta",
+    "ziper": true,
+    "punhos": true,
+    "raglan": true
+   },
+   "colorways": [
+    {
+     "id": "black",
+     "nome": "All Black",
+     "cores": {
+      "base": "#111111",
+      "detalhe": "#ff6a1a",
+      "terciaria": "#2a2a2a",
+      "tinta": "#4a4b50"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "badge",
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-jaqueta.md"
+   },
+   "roupaMH": "jaqueta",
+   "skinned": true
+  },
+  {
+   "id": "cortaaf",
+   "nome": "Manga Longa Authentic Feet",
+   "marca": "Authentic Feet",
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Conquistas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "alta",
+    "ziper": true,
+    "raglan": true,
+    "punhos": true
+   },
+   "colorways": [
+    {
+     "id": "amarelo",
+     "nome": "Amarelo & Preto",
+     "cores": {
+      "base": "#f5c400",
+      "detalhe": "#141414",
+      "terciaria": "#f2f2f2",
+      "tinta": "#f5c400"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "meta",
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_manga_longa.md"
+   },
+   "roupaMH": "camiseta_manga_longa",
+   "skinned": true
+  },
+  {
+   "id": "semana",
+   "nome": "Camiseta Vendedor(a) da Semana",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Conquistas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "curta",
+    "gola": "redonda",
+    "faixaPeito": true,
+    "estrela": true
+   },
+   "colorways": [
+    {
+     "id": "destaque",
+     "nome": "Destaque",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#f88e12",
+      "terciaria": "#ffd23f",
+      "tinta": "#151515"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "semana",
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ampla.md"
+   },
+   "roupaMH": "camiseta_ampla",
+   "skinned": true
+  },
+  {
+   "id": "mvp",
+   "nome": "Camiseta MVP",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Conquistas",
+   "modelo": {
+    "corpo": "oversized",
+    "manga": "curta-larga",
+    "gola": "redonda",
+    "faixaPeito": true,
+    "estrela": true
+   },
+   "colorways": [
+    {
+     "id": "ouro",
+     "nome": "Preto & Dourado",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#ffd23f",
+      "terciaria": "#ffd23f",
+      "tinta": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "mvp",
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ampla.md"
+   },
+   "roupaMH": "camiseta_ampla",
+   "skinned": true
+  },
+  {
+   "id": "gx",
+   "nome": "Manga Longa GX",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Conquistas",
+   "modelo": {
+    "corpo": "oversized",
+    "manga": "longa",
+    "gola": "capuz",
+    "capuz": true,
+    "bolso": true,
+    "cordao": true,
+    "faixaPeito": true
+   },
+   "colorways": [
+    {
+     "id": "gx",
+     "nome": "GX Laranja",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#f88e12",
+      "terciaria": "#f88e12",
+      "tinta": "#151515"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "quiz",
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_manga_longa.md"
+   },
+   "roupaMH": "camiseta_manga_longa",
+   "skinned": true
+  },
+  {
+   "id": "natal",
+   "nome": "Suéter de Natal",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Conquistas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "redonda",
+    "punhos": true,
+    "listras": 3,
+    "natal": true
+   },
+   "colorways": [
+    {
+     "id": "natal",
+     "nome": "Noite Feliz",
+     "cores": {
+      "base": "#b8142c",
+      "detalhe": "#f2f2f2",
+      "terciaria": "#1f9e6a",
+      "tinta": "#b8142c"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "natal",
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_manga_longa.md"
+   },
+   "roupaMH": "camiseta_manga_longa",
+   "skinned": true
+  },
+  {
+   "id": "camiseta-boxy",
+   "nome": "Camiseta Boxy",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Oversized",
+   "modelo": {
+    "corpo": "oversized",
+    "manga": "curta-larga",
+    "gola": "redonda"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#232323",
+      "terciaria": "#232323"
+     }
+    },
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f2f2f2",
+      "detalhe": "#e2e2e2",
+      "terciaria": "#e2e2e2"
+     }
+    },
+    {
+     "id": "off",
+     "nome": "Off-white",
+     "cores": {
+      "base": "#ece6d8",
+      "detalhe": "#ddd5c3",
+      "terciaria": "#ddd5c3"
+     }
+    },
+    {
+     "id": "premier",
+     "nome": "Laranja PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#e07a00"
+     }
+    },
+    {
+     "id": "areia",
+     "nome": "Areia",
+     "cores": {
+      "base": "#c9b48a",
+      "detalhe": "#b39d72",
+      "terciaria": "#b39d72"
+     }
+    },
+    {
+     "id": "oliva",
+     "nome": "Verde Oliva",
+     "cores": {
+      "base": "#5d6b3a",
+      "detalhe": "#4c5830",
+      "terciaria": "#4c5830"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza Mescla",
+     "cores": {
+      "base": "#8d8d8d",
+      "detalhe": "#7a7a7a",
+      "terciaria": "#7a7a7a"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "camiseta-listrada",
+   "nome": "Camiseta Oversized Listrada",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Oversized",
+   "modelo": {
+    "corpo": "oversized",
+    "manga": "curta-larga",
+    "gola": "redonda",
+    "listras": 7
+   },
+   "colorways": [
+    {
+     "id": "preto-branco",
+     "nome": "Preto & Branco",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#f2f2f2",
+      "terciaria": "#f2f2f2"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Marinho & Creme",
+     "cores": {
+      "base": "#1f2c45",
+      "detalhe": "#ece6d8",
+      "terciaria": "#ece6d8"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Preto & Laranja",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#f88e12",
+      "terciaria": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "novo"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "moletom-oversized",
+   "nome": "Moletom Oversized",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Hoodies & Moletons",
+   "modelo": {
+    "corpo": "oversized",
+    "manga": "longa",
+    "gola": "capuz",
+    "capuz": true,
+    "bolso": true,
+    "cordao": true
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#161616",
+      "detalhe": "#232323",
+      "terciaria": "#e8e8e8"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza Mescla",
+     "cores": {
+      "base": "#9a9a9a",
+      "detalhe": "#868686",
+      "terciaria": "#f2f2f2"
+     }
+    },
+    {
+     "id": "areia",
+     "nome": "Areia",
+     "cores": {
+      "base": "#c9b48a",
+      "detalhe": "#b39d72",
+      "terciaria": "#f2ebda"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde Musgo",
+     "cores": {
+      "base": "#4c5830",
+      "detalhe": "#3f4a27",
+      "terciaria": "#ece6d8"
+     }
+    },
+    {
+     "id": "lilas",
+     "nome": "Lilás",
+     "cores": {
+      "base": "#b9a5e6",
+      "detalhe": "#a08bd6",
+      "terciaria": "#f2f2f2"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "moletom",
+   "nome": "Moletom",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Hoodies & Moletons",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "redonda",
+    "punhos": true
+   },
+   "colorways": [
+    {
+     "id": "cinza",
+     "nome": "Cinza Mescla",
+     "cores": {
+      "base": "#8d8d8d",
+      "detalhe": "#7a7a7a",
+      "terciaria": "#7a7a7a"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#232323",
+      "terciaria": "#232323"
+     }
+    },
+    {
+     "id": "azul",
+     "nome": "Azul Royal",
+     "cores": {
+      "base": "#2457a8",
+      "detalhe": "#1c4688",
+      "terciaria": "#1c4688"
+     }
+    },
+    {
+     "id": "vinho",
+     "nome": "Vinho",
+     "cores": {
+      "base": "#6e1426",
+      "detalhe": "#5a0f1e",
+      "terciaria": "#5a0f1e"
+     }
+    },
+    {
+     "id": "premier",
+     "nome": "Laranja PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#e07a00"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "puffer",
+   "nome": "Jaqueta Puffer",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Jaquetas",
+   "modelo": {
+    "corpo": "puffer",
+    "manga": "longa",
+    "gola": "alta",
+    "ziper": true
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto Brilho",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#222222",
+      "terciaria": "#f88e12"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja Safety",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#d97400",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "prata",
+     "nome": "Prata",
+     "cores": {
+      "base": "#c9cdd2",
+      "detalhe": "#aeb3b9",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde Militar",
+     "cores": {
+      "base": "#4c5830",
+      "detalhe": "#3f4a27",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "off",
+     "nome": "Off-white",
+     "cores": {
+      "base": "#ece6d8",
+      "detalhe": "#d8cfbd",
+      "terciaria": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "jaqueta",
+   "nome": "Jaqueta Bomber",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Jaquetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "alta",
+    "ziper": true,
+    "punhos": true,
+    "raglan": false
+   },
+   "colorways": [
+    {
+     "id": "verde",
+     "nome": "Verde Bomber",
+     "cores": {
+      "base": "#3f4a27",
+      "detalhe": "#141414",
+      "terciaria": "#f88e12"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#f88e12"
+     }
+    },
+    {
+     "id": "vinho",
+     "nome": "Vinho",
+     "cores": {
+      "base": "#5a0f1e",
+      "detalhe": "#141414",
+      "terciaria": "#ece6d8"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "corta",
+   "nome": "Corta-vento",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "tops",
+   "slot": "top",
+   "grupo": "Jaquetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "alta",
+    "ziper": true,
+    "raglan": true,
+    "punhos": true
+   },
+   "colorways": [
+    {
+     "id": "retro",
+     "nome": "Retrô 90",
+     "cores": {
+      "base": "#2457a8",
+      "detalhe": "#f2f2f2",
+      "terciaria": "#d94a68"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto & Laranja",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#f88e12",
+      "terciaria": "#f2f2f2"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde & Creme",
+     "cores": {
+      "base": "#1f6b46",
+      "detalhe": "#ece6d8",
+      "terciaria": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "jeans",
+   "nome": "Calça Jeans",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "bottoms",
+   "slot": "bottom",
+   "grupo": "Calças",
+   "modelo": {
+    "corte": "reta",
+    "costura": true,
+    "textura": "denim_fabric"
+   },
+   "colorways": [
+    {
+     "id": "classico",
+     "nome": "Jeans",
+     "cores": {
+      "base": "#3d5f8f",
+      "detalhe": "#c08a4e",
+      "terciaria": "#c08a4e",
+      "tinta": "#ffffff"
+     }
+    },
+    {
+     "id": "escuro",
+     "nome": "Jeans escuro",
+     "cores": {
+      "base": "#1f2c45",
+      "detalhe": "#c08a4e",
+      "terciaria": "#c08a4e",
+      "tinta": "#8c95ad"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preta",
+     "cores": {
+      "base": "#181818",
+      "detalhe": "#5a5a5a",
+      "terciaria": "#5a5a5a",
+      "tinta": "#55565c"
+     }
+    },
+    {
+     "id": "claro",
+     "nome": "Jeans claro",
+     "cores": {
+      "base": "#8fb0d6",
+      "detalhe": "#c08a4e",
+      "terciaria": "#c08a4e",
+      "tinta": "#ffffff",
+      "lavagem": 0.55
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "legsGroup",
+    "osso": "quadril"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-jeans.md"
+   },
+   "roupaMH": "jeans",
+   "skinned": true
+  },
+  {
+   "id": "sarja",
+   "nome": "Calça Sarja",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "bottoms",
+   "slot": "bottom",
+   "grupo": "Calças",
+   "modelo": {
+    "corte": "reta"
+   },
+   "colorways": [
+    {
+     "id": "bege",
+     "nome": "Sarja bege",
+     "cores": {
+      "base": "#b9a37a",
+      "detalhe": "#a08c64",
+      "terciaria": "#a08c64"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preta",
+     "cores": {
+      "base": "#181818",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#2a2a2a"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#4c5830",
+      "detalhe": "#3f4a27",
+      "terciaria": "#3f4a27"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "legsGroup",
+    "osso": "quadril"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "bermuda",
+   "nome": "Bermuda Street",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "bottoms",
+   "slot": "bottom",
+   "grupo": "Bermudas",
+   "modelo": {
+    "corte": "bermuda",
+    "bolsos": true
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#171717",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#2a2a2a"
+     }
+    },
+    {
+     "id": "caqui",
+     "nome": "Caqui",
+     "cores": {
+      "base": "#a8956a",
+      "detalhe": "#8f7d55",
+      "terciaria": "#8f7d55"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza",
+     "cores": {
+      "base": "#7d8086",
+      "detalhe": "#6a6d72",
+      "terciaria": "#6a6d72"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#e07a00"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "legsGroup",
+    "osso": "quadril"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "novo"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "bermuda-jeans",
+   "nome": "Bermuda Jeans",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "bottoms",
+   "slot": "bottom",
+   "grupo": "Bermudas",
+   "modelo": {
+    "corte": "bermuda",
+    "costura": true,
+    "textura": "denim_fabric"
+   },
+   "colorways": [
+    {
+     "id": "classico",
+     "nome": "Jeans",
+     "cores": {
+      "base": "#3d5f8f",
+      "detalhe": "#c08a4e",
+      "terciaria": "#c08a4e",
+      "tinta": "#ffffff"
+     }
+    },
+    {
+     "id": "escuro",
+     "nome": "Jeans escuro",
+     "cores": {
+      "base": "#1f2c45",
+      "detalhe": "#c08a4e",
+      "terciaria": "#c08a4e",
+      "tinta": "#8c95ad"
+     }
+    },
+    {
+     "id": "claro",
+     "nome": "Jeans claro",
+     "cores": {
+      "base": "#8fb0d6",
+      "detalhe": "#c08a4e",
+      "terciaria": "#c08a4e",
+      "tinta": "#ffffff",
+      "lavagem": 0.55
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "legsGroup",
+    "osso": "quadril"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-bermuda_jeans.md"
+   },
+   "roupaMH": "bermuda_jeans",
+   "skinned": true
+  },
+  {
+   "id": "cargo-parachute",
+   "nome": "Calça Cargo Parachute",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "bottoms",
+   "slot": "bottom",
+   "grupo": "Cargo",
+   "modelo": {
+    "corte": "parachute",
+    "bolsos": true,
+    "cordao": true
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#171717",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#f88e12"
+     }
+    },
+    {
+     "id": "oliva",
+     "nome": "Verde Oliva",
+     "cores": {
+      "base": "#4c5830",
+      "detalhe": "#3f4a27",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "areia",
+     "nome": "Areia",
+     "cores": {
+      "base": "#c9b48a",
+      "detalhe": "#b39d72",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza Concreto",
+     "cores": {
+      "base": "#7d8086",
+      "detalhe": "#6a6d72",
+      "terciaria": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "legsGroup",
+    "osso": "quadril"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "cargo",
+   "nome": "Calça Cargo",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "bottoms",
+   "slot": "bottom",
+   "grupo": "Cargo",
+   "modelo": {
+    "corte": "larga",
+    "bolsos": true
+   },
+   "colorways": [
+    {
+     "id": "caqui",
+     "nome": "Caqui",
+     "cores": {
+      "base": "#a8956a",
+      "detalhe": "#8f7d55",
+      "terciaria": "#8f7d55"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#171717",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#2a2a2a"
+     }
+    },
+    {
+     "id": "camuflado",
+     "nome": "Verde Militar",
+     "cores": {
+      "base": "#4c5830",
+      "detalhe": "#3a4424",
+      "terciaria": "#3a4424"
+     }
+    },
+    {
+     "id": "off",
+     "nome": "Off-white",
+     "cores": {
+      "base": "#e6dfcf",
+      "detalhe": "#d2c9b5",
+      "terciaria": "#d2c9b5"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "legsGroup",
+    "osso": "quadril"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "jogger",
+   "nome": "Calça Jogger",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "bottoms",
+   "slot": "bottom",
+   "grupo": "Jogger",
+   "modelo": {
+    "corte": "jogger",
+    "punho": true,
+    "cordao": true
+   },
+   "colorways": [
+    {
+     "id": "cinza",
+     "nome": "Cinza Mescla",
+     "cores": {
+      "base": "#6f7378",
+      "detalhe": "#5f6267",
+      "terciaria": "#e8e8e8"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#161616",
+      "detalhe": "#242424",
+      "terciaria": "#e8e8e8"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Marinho",
+     "cores": {
+      "base": "#1f2c45",
+      "detalhe": "#18233a",
+      "terciaria": "#e8e8e8"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "legsGroup",
+    "osso": "quadril"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "bone",
+   "nome": "Boné",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Bonés & Chapéus",
+   "modelo": {
+    "tipo": "bone"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#161616",
+      "detalhe": "#161616",
+      "terciaria": "#f2f2f2"
+     }
+    },
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f2f2f2",
+      "detalhe": "#f2f2f2",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#141414",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "azul",
+     "nome": "Marinho",
+     "cores": {
+      "base": "#1f2c45",
+      "detalhe": "#1f2c45",
+      "terciaria": "#f2f2f2"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "bone-aba-reta",
+   "nome": "Boné Aba Reta",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Bonés & Chapéus",
+   "modelo": {
+    "tipo": "aba-reta"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#161616",
+      "detalhe": "#161616",
+      "terciaria": "#f88e12"
+     }
+    },
+    {
+     "id": "bicolor",
+     "nome": "Preto & Laranja",
+     "cores": {
+      "base": "#161616",
+      "detalhe": "#f88e12",
+      "terciaria": "#f88e12"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde & Creme",
+     "cores": {
+      "base": "#1f5d3a",
+      "detalhe": "#ece6d8",
+      "terciaria": "#ece6d8"
+     }
+    },
+    {
+     "id": "vinho",
+     "nome": "Vinho",
+     "cores": {
+      "base": "#6e1426",
+      "detalhe": "#141414",
+      "terciaria": "#f2f2f2"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "bone-tras",
+   "nome": "Boné pra Trás",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Bonés & Chapéus",
+   "modelo": {
+    "tipo": "bone",
+    "virado": true
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#161616",
+      "detalhe": "#161616",
+      "terciaria": "#f2f2f2"
+     }
+    },
+    {
+     "id": "bege",
+     "nome": "Bege",
+     "cores": {
+      "base": "#c9b48a",
+      "detalhe": "#c9b48a",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "vermelho",
+     "nome": "Vermelho",
+     "cores": {
+      "base": "#b8142c",
+      "detalhe": "#b8142c",
+      "terciaria": "#f2f2f2"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "bucket",
+   "nome": "Bucket Hat",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Bonés & Chapéus",
+   "modelo": {
+    "tipo": "bucket"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#171717",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#2a2a2a"
+     }
+    },
+    {
+     "id": "creme",
+     "nome": "Creme",
+     "cores": {
+      "base": "#ece6d8",
+      "detalhe": "#d8cfbd",
+      "terciaria": "#d8cfbd"
+     }
+    },
+    {
+     "id": "jeans",
+     "nome": "Jeans",
+     "cores": {
+      "base": "#3d5f8f",
+      "detalhe": "#c08a4e",
+      "terciaria": "#c08a4e"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#e07a00"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "gorro",
+   "nome": "Gorro",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Bonés & Chapéus",
+   "modelo": {
+    "tipo": "gorro"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#171717",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#2a2a2a"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#e07a00",
+      "terciaria": "#e07a00"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza",
+     "cores": {
+      "base": "#8d8d8d",
+      "detalhe": "#7a7a7a",
+      "terciaria": "#7a7a7a"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#1f6b46",
+      "detalhe": "#185a3a",
+      "terciaria": "#185a3a"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "boneaw",
+   "nome": "Boné Artwalk",
+   "marca": "Artwalk",
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Das lojas",
+   "modelo": {
+    "tipo": "aba-reta",
+    "etiqueta": true
+   },
+   "colorways": [
+    {
+     "id": "loja",
+     "nome": "Preto & Laranja",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#ff6a1a",
+      "terciaria": "#ff6a1a"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "boneaf",
+   "nome": "Boné Authentic Feet",
+   "marca": "Authentic Feet",
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Das lojas",
+   "modelo": {
+    "tipo": "bone",
+    "etiqueta": true
+   },
+   "colorways": [
+    {
+     "id": "loja",
+     "nome": "Preto & Amarelo",
+     "cores": {
+      "base": "#141414",
+      "detalhe": "#f5c400",
+      "terciaria": "#f5c400"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "viseira",
+   "nome": "Viseira",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Conquistas",
+   "modelo": {
+    "tipo": "viseira"
+   },
+   "colorways": [
+    {
+     "id": "destaque",
+     "nome": "Destaque",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#141414",
+      "terciaria": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "semana",
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "coroa",
+   "nome": "Coroa MVP",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "cabeca",
+   "slot": "cabeca",
+   "grupo": "Conquistas",
+   "modelo": {
+    "tipo": "coroa"
+   },
+   "colorways": [
+    {
+     "id": "ouro",
+     "nome": "Ouro",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#e0a800",
+      "terciaria": "#d61f4a"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "meta",
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "oculos-redondo",
+   "nome": "Redondo",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "oculos",
+   "slot": "oculos",
+   "grupo": "Óculos",
+   "modelo": {
+    "tipo": "redondo"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Armação preta",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#bfe3ff",
+      "terciaria": "#bfe3ff"
+     }
+    },
+    {
+     "id": "ouro",
+     "nome": "Dourado",
+     "cores": {
+      "base": "#e0a800",
+      "detalhe": "#bfe3ff",
+      "terciaria": "#bfe3ff"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "oculos-quadrado",
+   "nome": "Quadrado",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "oculos",
+   "slot": "oculos",
+   "grupo": "Óculos",
+   "modelo": {
+    "tipo": "quadrado"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#bfe3ff",
+      "terciaria": "#bfe3ff"
+     }
+    },
+    {
+     "id": "tartaruga",
+     "nome": "Tartaruga",
+     "cores": {
+      "base": "#6b4528",
+      "detalhe": "#bfe3ff",
+      "terciaria": "#bfe3ff"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "oculos-sol",
+   "nome": "De sol",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "oculos",
+   "slot": "oculos",
+   "grupo": "Óculos",
+   "modelo": {
+    "tipo": "sol"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#111111",
+      "detalhe": "#1d1d1d",
+      "terciaria": "#1d1d1d"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Lente laranja",
+     "cores": {
+      "base": "#111111",
+      "detalhe": "#f88e12",
+      "terciaria": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "oculos-diamante",
+   "nome": "Diamante",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "oculos",
+   "slot": "oculos",
+   "grupo": "Conquistas",
+   "modelo": {
+    "tipo": "diamante"
+   },
+   "colorways": [
+    {
+     "id": "gelo",
+     "nome": "Gelo",
+     "cores": {
+      "base": "#dff7ff",
+      "detalhe": "#4cc9f0",
+      "terciaria": "#4cc9f0"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "badge",
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "corrente-prata",
+   "nome": "Corrente Prata",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "pescoco",
+   "slot": "pescoco",
+   "grupo": "Correntes",
+   "modelo": {
+    "tipo": "corrente",
+    "elo": "grosso"
+   },
+   "colorways": [
+    {
+     "id": "prata",
+     "nome": "Prata",
+     "cores": {
+      "base": "#d9dde2",
+      "detalhe": "#aeb4bb",
+      "terciaria": "#aeb4bb"
+     }
+    },
+    {
+     "id": "ouro",
+     "nome": "Dourado",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#e0a800",
+      "terciaria": "#e0a800"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "corrente-pingente",
+   "nome": "Corrente com Pingente",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "pescoco",
+   "slot": "pescoco",
+   "grupo": "Correntes",
+   "modelo": {
+    "tipo": "corrente",
+    "elo": "fino",
+    "pingente": true
+   },
+   "colorways": [
+    {
+     "id": "ouro",
+     "nome": "Dourado",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#e0a800",
+      "terciaria": "#e0a800"
+     }
+    },
+    {
+     "id": "prata",
+     "nome": "Prata",
+     "cores": {
+      "base": "#d9dde2",
+      "detalhe": "#aeb4bb",
+      "terciaria": "#aeb4bb"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "colar",
+   "nome": "Correntinha",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "pescoco",
+   "slot": "pescoco",
+   "grupo": "Correntes",
+   "modelo": {
+    "tipo": "corrente",
+    "elo": "fino"
+   },
+   "colorways": [
+    {
+     "id": "prata",
+     "nome": "Prata",
+     "cores": {
+      "base": "#d9dde2",
+      "detalhe": "#aeb4bb",
+      "terciaria": "#aeb4bb"
+     }
+    },
+    {
+     "id": "ouro",
+     "nome": "Dourado",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#e0a800",
+      "terciaria": "#e0a800"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "cracha",
+   "nome": "Crachá da loja",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "pescoco",
+   "slot": "pescoco",
+   "grupo": "Correntes",
+   "modelo": {
+    "tipo": "cracha"
+   },
+   "colorways": [
+    {
+     "id": "premier",
+     "nome": "PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#ffffff",
+      "terciaria": "#ffffff"
+     }
+    },
+    {
+     "id": "aw",
+     "nome": "Artwalk",
+     "cores": {
+      "base": "#ff6a1a",
+      "detalhe": "#ffffff",
+      "terciaria": "#ffffff"
+     }
+    },
+    {
+     "id": "af",
+     "nome": "Authentic Feet",
+     "cores": {
+      "base": "#f5c400",
+      "detalhe": "#ffffff",
+      "terciaria": "#ffffff"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "medalha",
+   "nome": "Medalha de MVP",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "pescoco",
+   "slot": "pescoco",
+   "grupo": "Conquistas",
+   "modelo": {
+    "tipo": "medalha"
+   },
+   "colorways": [
+    {
+     "id": "ouro",
+     "nome": "Ouro",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#f88e12",
+      "terciaria": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "mvp",
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "shoulder-bag",
+   "nome": "Shoulder Bag",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "bolsa",
+   "slot": "bolsa",
+   "grupo": "Bags",
+   "modelo": {
+    "tipo": "shoulder"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#171717",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#f88e12"
+     }
+    },
+    {
+     "id": "prata",
+     "nome": "Prata Refletiva",
+     "cores": {
+      "base": "#c9cdd2",
+      "detalhe": "#141414",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#141414",
+      "terciaria": "#141414"
+     }
+    },
+    {
+     "id": "oliva",
+     "nome": "Oliva",
+     "cores": {
+      "base": "#4c5830",
+      "detalhe": "#141414",
+      "terciaria": "#ece6d8"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [
+    "destaque"
+   ],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "pochete",
+   "nome": "Pochete Transversal",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "bolsa",
+   "slot": "bolsa",
+   "grupo": "Bags",
+   "modelo": {
+    "tipo": "pochete"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#171717",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#f2f2f2"
+     }
+    },
+    {
+     "id": "areia",
+     "nome": "Areia",
+     "cores": {
+      "base": "#c9b48a",
+      "detalhe": "#141414",
+      "terciaria": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "mochila",
+   "nome": "Mochila GX",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "bolsa",
+   "slot": "bolsa",
+   "grupo": "Conquistas",
+   "modelo": {
+    "tipo": "mochila"
+   },
+   "colorways": [
+    {
+     "id": "gx",
+     "nome": "GX",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#f88e12",
+      "terciaria": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "torsoGroup",
+    "osso": "tronco"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "quiz",
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "relogio",
+   "nome": "Relógio",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "pulso",
+   "slot": "pulso",
+   "grupo": "Pulso & Orelhas",
+   "modelo": {
+    "tipo": "relogio"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#151515",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#2a2a2a"
+     }
+    },
+    {
+     "id": "prata",
+     "nome": "Prata",
+     "cores": {
+      "base": "#d9dde2",
+      "detalhe": "#151515",
+      "terciaria": "#151515"
+     }
+    },
+    {
+     "id": "ouro",
+     "nome": "Dourado",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#151515",
+      "terciaria": "#151515"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "antebracoE",
+    "osso": "mao_esq"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "fone",
+   "nome": "Fone de ouvido",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "orelha",
+   "slot": "orelha",
+   "grupo": "Pulso & Orelhas",
+   "modelo": {
+    "tipo": "fone"
+   },
+   "colorways": [
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#161616",
+      "detalhe": "#2a2a2a",
+      "terciaria": "#2a2a2a"
+     }
+    },
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f2f2f2",
+      "detalhe": "#d9d9d9",
+      "terciaria": "#d9d9d9"
+     }
+    },
+    {
+     "id": "laranja",
+     "nome": "Laranja",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#141414",
+      "terciaria": "#141414"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "brinco-ponto",
+   "nome": "Ponto dourado",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "orelha",
+   "slot": "orelha",
+   "grupo": "Pulso & Orelhas",
+   "modelo": {
+    "tipo": "brinco",
+    "forma": "ponto"
+   },
+   "colorways": [
+    {
+     "id": "ouro",
+     "nome": "Dourado",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#e0a800",
+      "terciaria": "#e0a800"
+     }
+    },
+    {
+     "id": "prata",
+     "nome": "Prata",
+     "cores": {
+      "base": "#d9dde2",
+      "detalhe": "#aeb4bb",
+      "terciaria": "#aeb4bb"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "brinco-argola",
+   "nome": "Argola",
+   "marca": null,
+   "categoria": "acessorios",
+   "subcategoria": "orelha",
+   "slot": "orelha",
+   "grupo": "Pulso & Orelhas",
+   "modelo": {
+    "tipo": "brinco",
+    "forma": "argola"
+   },
+   "colorways": [
+    {
+     "id": "ouro",
+     "nome": "Dourado",
+     "cores": {
+      "base": "#ffcf3f",
+      "detalhe": "#e0a800",
+      "terciaria": "#e0a800"
+     }
+    },
+    {
+     "id": "prata",
+     "nome": "Prata",
+     "cores": {
+      "base": "#d9dde2",
+      "detalhe": "#aeb4bb",
+      "terciaria": "#aeb4bb"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "headGroup",
+    "osso": "cabeca"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "proprio-procedural",
+    "autor": "Estúdio 3D PREMIER (geometria em código)",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "court-low-couro",
+   "nome": "Court Low Couro",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Clássicos",
+   "modelo": {
+    "perfil": "baixo",
+    "sola": "copo",
+    "material": "couro",
+    "pecas": [
+     "biqueira",
+     "recorteCalcanhar",
+     "ilhos"
+    ],
+    "perfuracao": true,
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "branco-total",
+     "nome": "Branco Total",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#ebe9e4",
+      "entressola": "#f7f6f2",
+      "solado": "#e9e7e2",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#e9e7e2",
+      "forro": "#e9e7e2"
+     }
+    },
+    {
+     "id": "branco-verde",
+     "nome": "Branco/Verde",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#f4f3ef",
+      "entressola": "#f7f6f2",
+      "solado": "#f0eee9",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#1f6b46",
+      "forro": "#1f6b46",
+      "acento": "#1f6b46"
+     }
+    },
+    {
+     "id": "branco-marinho",
+     "nome": "Branco/Marinho",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#1f2c45",
+      "entressola": "#f7f6f2",
+      "solado": "#e9e7e2",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#1f2c45",
+      "forro": "#1f2c45"
+     }
+    },
+    {
+     "id": "preto-goma",
+     "nome": "Preto/Goma",
+     "cores": {
+      "cabedal": "#161616",
+      "sobreposicao": "#262626",
+      "entressola": "#b8743a",
+      "solado": "#9a5d2a",
+      "cadarco": "#161616",
+      "detalhe": "#262626",
+      "forro": "#262626"
+     }
+    },
+    {
+     "id": "branco-laranja",
+     "nome": "Branco/Laranja",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#f88e12",
+      "entressola": "#f7f6f2",
+      "solado": "#f88e12",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f88e12",
+      "forro": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/court-low-couro/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "cano-alto-basquete-retro",
+   "nome": "Cano Alto Basquete Retrô",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Clássicos",
+   "modelo": {
+    "perfil": "basquete-alto",
+    "sola": "copo-fina",
+    "material": "couro",
+    "pecas": [
+     "biqueira",
+     "lateral",
+     "contraforte",
+     "ilhos",
+     "faixaTornozelo"
+    ],
+    "colarinhoAlto": true,
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "branco-vermelho-preto",
+     "nome": "Branco/Vermelho/Preto",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#c8102e",
+      "entressola": "#f4f3ef",
+      "solado": "#c8102e",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#161616",
+      "forro": "#f4f3ef"
+     }
+    },
+    {
+     "id": "preto-vermelho",
+     "nome": "Preto/Vermelho",
+     "cores": {
+      "cabedal": "#161616",
+      "sobreposicao": "#c8102e",
+      "entressola": "#f4f3ef",
+      "solado": "#c8102e",
+      "cadarco": "#161616",
+      "detalhe": "#161616",
+      "forro": "#161616"
+     }
+    },
+    {
+     "id": "branco-azul-royal",
+     "nome": "Branco/Azul Royal",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#1f4fbf",
+      "entressola": "#f4f3ef",
+      "solado": "#1f4fbf",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#1f4fbf",
+      "forro": "#f4f3ef"
+     }
+    },
+    {
+     "id": "cinza-preto",
+     "nome": "Cinza/Preto",
+     "cores": {
+      "cabedal": "#8d9096",
+      "sobreposicao": "#161616",
+      "entressola": "#f4f3ef",
+      "solado": "#161616",
+      "cadarco": "#161616",
+      "detalhe": "#161616",
+      "forro": "#8d9096"
+     }
+    },
+    {
+     "id": "branco-amarelo",
+     "nome": "Branco/Amarelo",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#f3b51b",
+      "entressola": "#f4f3ef",
+      "solado": "#f3b51b",
+      "cadarco": "#161616",
+      "detalhe": "#161616",
+      "forro": "#f4f3ef"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/cano-alto-basquete-retro/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "skate-low-paineis",
+   "nome": "Skate Low Painéis",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Skate",
+   "modelo": {
+    "perfil": "skate",
+    "sola": "vulc",
+    "material": "camurca",
+    "materialSobre": "camurca",
+    "pecas": [
+     "biqueira",
+     "lateral",
+     "contraforte",
+     "ilhos"
+    ],
+    "cadarco": "largo",
+    "lingua": 1.5
+   },
+   "colorways": [
+    {
+     "id": "panda-preto-branco",
+     "nome": "Panda Preto/Branco",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#161616",
+      "entressola": "#f4f3ef",
+      "solado": "#161616",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#161616",
+      "forro": "#f4f3ef",
+      "acento": "#161616"
+     }
+    },
+    {
+     "id": "azul-costa-branco",
+     "nome": "Azul Costa/Branco",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#7fb6e6",
+      "entressola": "#f4f3ef",
+      "solado": "#7fb6e6",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#7fb6e6",
+      "forro": "#f4f3ef",
+      "acento": "#7fb6e6"
+     }
+    },
+    {
+     "id": "cinza-branco",
+     "nome": "Cinza/Branco",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#b9bcbf",
+      "entressola": "#f4f3ef",
+      "solado": "#b9bcbf",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#b9bcbf",
+      "forro": "#f4f3ef",
+      "acento": "#b9bcbf"
+     }
+    },
+    {
+     "id": "verde-creme",
+     "nome": "Verde/Creme",
+     "cores": {
+      "cabedal": "#f2ebda",
+      "sobreposicao": "#1f5d3a",
+      "entressola": "#f2ebda",
+      "solado": "#1f5d3a",
+      "cadarco": "#f2ebda",
+      "detalhe": "#1f5d3a",
+      "forro": "#f2ebda",
+      "acento": "#1f5d3a"
+     }
+    },
+    {
+     "id": "laranja-preto",
+     "nome": "Laranja/Preto",
+     "cores": {
+      "cabedal": "#161616",
+      "sobreposicao": "#f88e12",
+      "entressola": "#f4f3ef",
+      "solado": "#161616",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f88e12",
+      "forro": "#161616",
+      "acento": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/skate-low-paineis/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "terrace-low-camurca",
+   "nome": "Terrace Low Camurça",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Retrô",
+   "modelo": {
+    "perfil": "terrace",
+    "sola": "gum",
+    "material": "camurca",
+    "materialSobre": "couro",
+    "pecas": [
+     "biqueiraT",
+     "contraforte",
+     "ilhos"
+    ],
+    "cadarco": "fino",
+    "lingua": 1.1
+   },
+   "colorways": [
+    {
+     "id": "bege-goma",
+     "nome": "Bege/Goma",
+     "cores": {
+      "cabedal": "#d8c3a0",
+      "sobreposicao": "#c4ab84",
+      "entressola": "#b8743a",
+      "solado": "#9a5d2a",
+      "cadarco": "#ece6d8",
+      "detalhe": "#4b3a28",
+      "forro": "#ece6d8"
+     }
+    },
+    {
+     "id": "verde-goma",
+     "nome": "Verde/Goma",
+     "cores": {
+      "cabedal": "#2e6a4a",
+      "sobreposicao": "#e9dfc7",
+      "entressola": "#b8743a",
+      "solado": "#9a5d2a",
+      "cadarco": "#e9dfc7",
+      "detalhe": "#e9dfc7",
+      "forro": "#e9dfc7"
+     }
+    },
+    {
+     "id": "preto-goma",
+     "nome": "Preto/Goma",
+     "cores": {
+      "cabedal": "#161616",
+      "sobreposicao": "#2a2a2a",
+      "entressola": "#b8743a",
+      "solado": "#9a5d2a",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f4f3ef",
+      "forro": "#161616"
+     }
+    },
+    {
+     "id": "bordo-goma",
+     "nome": "Bordô/Goma",
+     "cores": {
+      "cabedal": "#6e1426",
+      "sobreposicao": "#e9dfc7",
+      "entressola": "#b8743a",
+      "solado": "#9a5d2a",
+      "cadarco": "#e9dfc7",
+      "detalhe": "#e9dfc7",
+      "forro": "#e9dfc7"
+     }
+    },
+    {
+     "id": "marinho-goma",
+     "nome": "Azul Marinho/Goma",
+     "cores": {
+      "cabedal": "#1f2c45",
+      "sobreposicao": "#e9dfc7",
+      "entressola": "#b8743a",
+      "solado": "#9a5d2a",
+      "cadarco": "#e9dfc7",
+      "detalhe": "#e9dfc7",
+      "forro": "#e9dfc7"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/terrace-low-camurca/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "court-retro-minimal",
+   "nome": "Court Retrô Minimal",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Clássicos",
+   "modelo": {
+    "perfil": "minimal",
+    "sola": "copo-fina",
+    "material": "couro",
+    "pecas": [
+     "contraforte"
+    ],
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "branco-verde",
+     "nome": "Branco/Verde",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#1f6b46",
+      "entressola": "#f7f6f2",
+      "solado": "#e9e7e2",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#1f6b46",
+      "forro": "#f4f3ef"
+     }
+    },
+    {
+     "id": "branco-preto",
+     "nome": "Branco/Preto",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#161616",
+      "entressola": "#f7f6f2",
+      "solado": "#e9e7e2",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#161616",
+      "forro": "#f4f3ef"
+     }
+    },
+    {
+     "id": "offwhite-marrom",
+     "nome": "Off-white/Marrom",
+     "cores": {
+      "cabedal": "#ece6d8",
+      "sobreposicao": "#6b4528",
+      "entressola": "#ece6d8",
+      "solado": "#6b4528",
+      "cadarco": "#ece6d8",
+      "detalhe": "#6b4528",
+      "forro": "#ece6d8"
+     }
+    },
+    {
+     "id": "branco-total",
+     "nome": "Branco Total",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#e9e7e2",
+      "entressola": "#f7f6f2",
+      "solado": "#e9e7e2",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#e9e7e2",
+      "forro": "#f4f3ef"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/court-retro-minimal/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "runner-retro-80",
+   "nome": "Runner Retrô Anos 80",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Corrida",
+   "modelo": {
+    "perfil": "runner80",
+    "sola": "cunha",
+    "material": "tela",
+    "materialSobre": "camurca",
+    "pecas": [
+     "biqueira",
+     "palaCamurca",
+     "contraforte",
+     "ilhos"
+    ],
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "cinza-marinho",
+     "nome": "Cinza/Marinho",
+     "cores": {
+      "cabedal": "#b9bcbf",
+      "sobreposicao": "#6f7378",
+      "entressola": "#f2efe6",
+      "solado": "#1f2c45",
+      "cadarco": "#f2efe6",
+      "detalhe": "#1f2c45",
+      "forro": "#b9bcbf"
+     }
+    },
+    {
+     "id": "bege-verde",
+     "nome": "Bege/Verde",
+     "cores": {
+      "cabedal": "#e6dcc6",
+      "sobreposicao": "#c4ab84",
+      "entressola": "#f2efe6",
+      "solado": "#1f5d3a",
+      "cadarco": "#f2efe6",
+      "detalhe": "#1f5d3a",
+      "forro": "#1f5d3a"
+     }
+    },
+    {
+     "id": "branco-vermelho",
+     "nome": "Branco/Vermelho",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#c8102e",
+      "entressola": "#f4f3ef",
+      "solado": "#3a3a3a",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#c8102e",
+      "forro": "#f4f3ef"
+     }
+    },
+    {
+     "id": "preto-cinza",
+     "nome": "Preto/Cinza",
+     "cores": {
+      "cabedal": "#2a2a2a",
+      "sobreposicao": "#5a5a5a",
+      "entressola": "#d9d9d9",
+      "solado": "#161616",
+      "cadarco": "#161616",
+      "detalhe": "#8d8d8d",
+      "forro": "#8d8d8d"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/runner-retro-80/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "dad-shoe-chunky",
+   "nome": "Dad Shoe Chunky",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Chunky",
+   "modelo": {
+    "perfil": "dad",
+    "sola": "camadas",
+    "material": "malha",
+    "materialSobre": "couro",
+    "pecas": [
+     "biqueira",
+     "lateral",
+     "contraforte",
+     "pala",
+     "ilhos"
+    ],
+    "gordo": 1.04,
+    "cadarco": "fino",
+    "lingua": 1.2
+   },
+   "colorways": [
+    {
+     "id": "offwhite-cinza",
+     "nome": "Off-white/Cinza",
+     "cores": {
+      "cabedal": "#ece8df",
+      "sobreposicao": "#c9c3b6",
+      "entressola": "#f4f1ea",
+      "solado": "#bdb6a8",
+      "cadarco": "#ece8df",
+      "detalhe": "#8d8d8d",
+      "forro": "#ece8df",
+      "acento": "#d8d2c4"
+     }
+    },
+    {
+     "id": "preto-total",
+     "nome": "Preto Total",
+     "cores": {
+      "cabedal": "#1d1d1d",
+      "sobreposicao": "#2b2b2b",
+      "entressola": "#262626",
+      "solado": "#111111",
+      "cadarco": "#1d1d1d",
+      "detalhe": "#3a3a3a",
+      "forro": "#1d1d1d",
+      "acento": "#333333"
+     }
+    },
+    {
+     "id": "branco-pastel",
+     "nome": "Branco/Pastel",
+     "cores": {
+      "cabedal": "#f0e9f6",
+      "sobreposicao": "#a9c8ee",
+      "entressola": "#fbf7ef",
+      "solado": "#f0b8c4",
+      "cadarco": "#f0e9f6",
+      "detalhe": "#a9c8ee",
+      "forro": "#f0e9f6",
+      "acento": "#f6d6dc"
+     }
+    },
+    {
+     "id": "bege-marrom",
+     "nome": "Bege/Marrom",
+     "cores": {
+      "cabedal": "#e6dcc6",
+      "sobreposicao": "#8a5a2c",
+      "entressola": "#f2efe6",
+      "solado": "#6b4528",
+      "cadarco": "#e6dcc6",
+      "detalhe": "#6b4528",
+      "forro": "#e6dcc6",
+      "acento": "#c9b48a"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/dad-shoe-chunky/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "runner-tech-bolha",
+   "nome": "Runner Tech Bolha",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Corrida",
+   "modelo": {
+    "perfil": "runner",
+    "sola": "bolha",
+    "material": "malha",
+    "materialSobre": "couro",
+    "pecas": [
+     "biqueira",
+     "contraforte",
+     "pala"
+    ],
+    "cadarco": "redondo"
+   },
+   "colorways": [
+    {
+     "id": "branco-laranja",
+     "nome": "Branco/Laranja",
+     "cores": {
+      "cabedal": "#f2f2f2",
+      "sobreposicao": "#f88e12",
+      "entressola": "#f4f3ef",
+      "solado": "#f88e12",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f88e12",
+      "forro": "#f4f3ef",
+      "acento": "#ffd9a8"
+     }
+    },
+    {
+     "id": "preto-volt",
+     "nome": "Preto/Volt",
+     "cores": {
+      "cabedal": "#1c1c1c",
+      "sobreposicao": "#c8f03c",
+      "entressola": "#1c1c1c",
+      "solado": "#c8f03c",
+      "cadarco": "#1c1c1c",
+      "detalhe": "#c8f03c",
+      "forro": "#161616",
+      "acento": "#e8ffa0"
+     }
+    },
+    {
+     "id": "cinza-azul",
+     "nome": "Cinza/Azul",
+     "cores": {
+      "cabedal": "#9da3aa",
+      "sobreposicao": "#2f6fd6",
+      "entressola": "#f4f4f4",
+      "solado": "#2f6fd6",
+      "cadarco": "#f4f4f4",
+      "detalhe": "#2f6fd6",
+      "forro": "#f4f4f4",
+      "acento": "#bcd6ff"
+     }
+    },
+    {
+     "id": "branco-vermelho",
+     "nome": "Branco/Vermelho",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#c8102e",
+      "entressola": "#f4f3ef",
+      "solado": "#161616",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#c8102e",
+      "forro": "#f4f3ef",
+      "acento": "#ffc0c8"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/runner-tech-bolha/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "runner-sola-nuvem",
+   "nome": "Runner Sola Nuvem",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Corrida",
+   "modelo": {
+    "perfil": "runner",
+    "sola": "nuvem",
+    "material": "malha",
+    "materialSobre": "couro",
+    "pecas": [
+     "contraforte",
+     "ilhos"
+    ],
+    "cadarco": "redondo"
+   },
+   "colorways": [
+    {
+     "id": "preto-branco",
+     "nome": "Preto/Branco",
+     "cores": {
+      "cabedal": "#1d1d1d",
+      "sobreposicao": "#2a2a2a",
+      "entressola": "#f4f3ef",
+      "solado": "#d9d9d9",
+      "cadarco": "#1d1d1d",
+      "detalhe": "#f4f3ef",
+      "forro": "#161616"
+     }
+    },
+    {
+     "id": "branco-gelo",
+     "nome": "Branco/Gelo",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#dfe7ec",
+      "entressola": "#eef3f6",
+      "solado": "#c9d3da",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#c9d3da",
+      "forro": "#f4f3ef"
+     }
+    },
+    {
+     "id": "azul-coral",
+     "nome": "Azul/Coral",
+     "cores": {
+      "cabedal": "#2457a8",
+      "sobreposicao": "#1c4688",
+      "entressola": "#f4f4f4",
+      "solado": "#ff7a6b",
+      "cadarco": "#f4f4f4",
+      "detalhe": "#ff7a6b",
+      "forro": "#2457a8"
+     }
+    },
+    {
+     "id": "cinza-laranja",
+     "nome": "Cinza/Laranja",
+     "cores": {
+      "cabedal": "#8d8d8d",
+      "sobreposicao": "#6a6a6a",
+      "entressola": "#f4f4f4",
+      "solado": "#f88e12",
+      "cadarco": "#f4f4f4",
+      "detalhe": "#f88e12",
+      "forro": "#8d8d8d"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/runner-sola-nuvem/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "runner-maximal-placa",
+   "nome": "Runner Maximal com Placa",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Corrida",
+   "modelo": {
+    "perfil": "runner",
+    "sola": "maximal",
+    "material": "malha",
+    "materialSobre": "couro",
+    "pecas": [
+     "contraforte",
+     "biqueira"
+    ],
+    "cadarco": "redondo"
+   },
+   "colorways": [
+    {
+     "id": "branco-coral",
+     "nome": "Branco/Coral",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#ff7a6b",
+      "entressola": "#f4f3ef",
+      "solado": "#ff7a6b",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#ff7a6b",
+      "forro": "#f4f3ef",
+      "acento": "#ff7a6b"
+     }
+    },
+    {
+     "id": "preto-neon",
+     "nome": "Preto/Neon",
+     "cores": {
+      "cabedal": "#1c1c1c",
+      "sobreposicao": "#c8f03c",
+      "entressola": "#2a2a2a",
+      "solado": "#c8f03c",
+      "cadarco": "#1c1c1c",
+      "detalhe": "#c8f03c",
+      "forro": "#161616",
+      "acento": "#c8f03c"
+     }
+    },
+    {
+     "id": "verde-agua-branco",
+     "nome": "Verde Água/Branco",
+     "cores": {
+      "cabedal": "#7fd6c2",
+      "sobreposicao": "#f4f3ef",
+      "entressola": "#f4f3ef",
+      "solado": "#2f8f7a",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#2f8f7a",
+      "forro": "#f4f3ef",
+      "acento": "#2f8f7a"
+     }
+    },
+    {
+     "id": "laranja-roxo",
+     "nome": "Laranja/Roxo",
+     "cores": {
+      "cabedal": "#f88e12",
+      "sobreposicao": "#6e4bd1",
+      "entressola": "#f4f1ea",
+      "solado": "#6e4bd1",
+      "cadarco": "#f4f1ea",
+      "detalhe": "#6e4bd1",
+      "forro": "#f88e12",
+      "acento": "#6e4bd1"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/runner-maximal-placa/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "cano-alto-lona",
+   "nome": "Cano Alto de Lona",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Lona",
+   "modelo": {
+    "perfil": "lona-alto",
+    "sola": "vulc",
+    "material": "tela",
+    "pecas": [
+     "borracha"
+    ],
+    "ilhosesLaterais": true,
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "preto-branco",
+     "nome": "Preto/Branco",
+     "cores": {
+      "cabedal": "#1d1d1d",
+      "sobreposicao": "#f4f3ef",
+      "entressola": "#f4f3ef",
+      "solado": "#1d1d1d",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f4f3ef",
+      "forro": "#f4f3ef",
+      "acento": "#1d1d1d"
+     }
+    },
+    {
+     "id": "branco-total",
+     "nome": "Branco Total",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#f4f3ef",
+      "entressola": "#f4f3ef",
+      "solado": "#e6e2d8",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f4f3ef",
+      "forro": "#f4f3ef",
+      "acento": "#c9c3b6"
+     }
+    },
+    {
+     "id": "vermelho-branco",
+     "nome": "Vermelho/Branco",
+     "cores": {
+      "cabedal": "#c8102e",
+      "sobreposicao": "#f4f3ef",
+      "entressola": "#f4f3ef",
+      "solado": "#c8102e",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f4f3ef",
+      "forro": "#f4f3ef",
+      "acento": "#c8102e"
+     }
+    },
+    {
+     "id": "marinho-branco",
+     "nome": "Azul Marinho/Branco",
+     "cores": {
+      "cabedal": "#1f2c45",
+      "sobreposicao": "#f4f3ef",
+      "entressola": "#f4f3ef",
+      "solado": "#1f2c45",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#f4f3ef",
+      "forro": "#f4f3ef",
+      "acento": "#1f2c45"
+     }
+    },
+    {
+     "id": "creme-preto",
+     "nome": "Creme/Preto",
+     "cores": {
+      "cabedal": "#ece6d8",
+      "sobreposicao": "#ece6d8",
+      "entressola": "#ece6d8",
+      "solado": "#161616",
+      "cadarco": "#ece6d8",
+      "detalhe": "#ece6d8",
+      "forro": "#ece6d8",
+      "acento": "#161616"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/cano-alto-lona/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "slip-on-lona",
+   "nome": "Slip-on de Lona",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Lona",
+   "modelo": {
+    "perfil": "slipon",
+    "sola": "vulc",
+    "material": "tela",
+    "pecas": [
+     "elastico",
+     "contraforte"
+    ],
+    "cadarco": "nenhum"
+   },
+   "colorways": [
+    {
+     "id": "preto-branco",
+     "nome": "Preto/Branco",
+     "cores": {
+      "cabedal": "#1d1d1d",
+      "sobreposicao": "#1d1d1d",
+      "entressola": "#f4f3ef",
+      "solado": "#f4f3ef",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#2a2a2a",
+      "forro": "#161616",
+      "acento": "#1d1d1d"
+     }
+    },
+    {
+     "id": "branco-total",
+     "nome": "Branco Total",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#f4f3ef",
+      "entressola": "#f4f3ef",
+      "solado": "#e6e2d8",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#e9e7e2",
+      "forro": "#f4f3ef",
+      "acento": "#c9c3b6"
+     }
+    },
+    {
+     "id": "marinho-branco",
+     "nome": "Azul Marinho/Branco",
+     "cores": {
+      "cabedal": "#1f2c45",
+      "sobreposicao": "#1f2c45",
+      "entressola": "#f4f3ef",
+      "solado": "#f4f3ef",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#18233a",
+      "forro": "#1f2c45",
+      "acento": "#1f2c45"
+     }
+    },
+    {
+     "id": "bordo-branco",
+     "nome": "Bordô/Branco",
+     "cores": {
+      "cabedal": "#6e1426",
+      "sobreposicao": "#6e1426",
+      "entressola": "#f4f3ef",
+      "solado": "#f4f3ef",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#5a101f",
+      "forro": "#6e1426",
+      "acento": "#6e1426"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/slip-on-lona/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "taw",
+   "nome": "Runner Artwalk",
+   "marca": "Artwalk",
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Das lojas",
+   "modelo": {
+    "perfil": "runner80",
+    "sola": "cunha",
+    "material": "tela",
+    "materialSobre": "camurca",
+    "pecas": [
+     "biqueira",
+     "palaCamurca",
+     "contraforte",
+     "ilhos"
+    ],
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "preto-laranja",
+     "nome": "Preto/Laranja",
+     "cores": {
+      "cabedal": "#161616",
+      "sobreposicao": "#ff6a1a",
+      "entressola": "#f4f3ef",
+      "solado": "#ff6a1a",
+      "cadarco": "#161616",
+      "detalhe": "#ff6a1a",
+      "forro": "#ff6a1a"
+     }
+    },
+    {
+     "id": "branco-laranja",
+     "nome": "Branco/Laranja",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#ff6a1a",
+      "entressola": "#ffffff",
+      "solado": "#161616",
+      "cadarco": "#f4f3ef",
+      "detalhe": "#ff6a1a",
+      "forro": "#ff6a1a"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/taw/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "taf",
+   "nome": "Classic Authentic Feet",
+   "marca": "Authentic Feet",
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Das lojas",
+   "modelo": {
+    "perfil": "baixo",
+    "sola": "copo",
+    "material": "couro",
+    "pecas": [
+     "biqueira",
+     "recorteCalcanhar",
+     "ilhos"
+    ],
+    "perfuracao": true,
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "branco-amarelo",
+     "nome": "Branco/Amarelo",
+     "cores": {
+      "cabedal": "#f2f2f2",
+      "sobreposicao": "#f5c400",
+      "entressola": "#f7f6f2",
+      "solado": "#f5c400",
+      "cadarco": "#f2f2f2",
+      "detalhe": "#f5c400",
+      "forro": "#f5c400"
+     }
+    },
+    {
+     "id": "preto-amarelo",
+     "nome": "Preto/Amarelo",
+     "cores": {
+      "cabedal": "#161616",
+      "sobreposicao": "#f5c400",
+      "entressola": "#f7f6f2",
+      "solado": "#161616",
+      "cadarco": "#161616",
+      "detalhe": "#f5c400",
+      "forro": "#f5c400"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/taf/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "dourado",
+   "nome": "Dourado",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Conquistas",
+   "modelo": {
+    "perfil": "baixo",
+    "sola": "copo",
+    "material": "metal",
+    "pecas": [
+     "biqueira",
+     "recorteCalcanhar",
+     "ilhos"
+    ],
+    "perfuracao": false,
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "ouro",
+     "nome": "Ouro",
+     "cores": {
+      "cabedal": "#ffcf3f",
+      "sobreposicao": "#e0a800",
+      "entressola": "#fff3c4",
+      "solado": "#b88f00",
+      "cadarco": "#fff3c4",
+      "detalhe": "#ffe58a",
+      "forro": "#ffe58a"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/dourado/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "meta",
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "diamante",
+   "nome": "Diamante",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Conquistas",
+   "modelo": {
+    "perfil": "basquete-alto",
+    "sola": "copo-fina",
+    "material": "cristal",
+    "pecas": [
+     "biqueira",
+     "lateral",
+     "contraforte",
+     "ilhos",
+     "faixaTornozelo"
+    ],
+    "colarinhoAlto": true,
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "gelo",
+     "nome": "Gelo/Azul",
+     "cores": {
+      "cabedal": "#dff7ff",
+      "sobreposicao": "#4cc9f0",
+      "entressola": "#ffffff",
+      "solado": "#4cc9f0",
+      "cadarco": "#ffffff",
+      "detalhe": "#9be7ff",
+      "forro": "#9be7ff"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/diamante/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "badge",
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "tmvp",
+   "nome": "MVP Black & Gold",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Conquistas",
+   "modelo": {
+    "perfil": "basquete-alto",
+    "sola": "copo-fina",
+    "material": "couro",
+    "pecas": [
+     "biqueira",
+     "lateral",
+     "contraforte",
+     "ilhos",
+     "faixaTornozelo"
+    ],
+    "colarinhoAlto": true,
+    "cadarco": "fino",
+    "metalDetalhe": true
+   },
+   "colorways": [
+    {
+     "id": "preto-dourado",
+     "nome": "Preto/Dourado",
+     "cores": {
+      "cabedal": "#141414",
+      "sobreposicao": "#ffd23f",
+      "entressola": "#141414",
+      "solado": "#ffd23f",
+      "cadarco": "#ffd23f",
+      "detalhe": "#ffd23f",
+      "forro": "#141414"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/tmvp/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "mvp",
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "tnatal",
+   "nome": "Edição Natal",
+   "marca": null,
+   "categoria": "tenis",
+   "subcategoria": "tenis",
+   "slot": "tenis",
+   "grupo": "Conquistas",
+   "modelo": {
+    "perfil": "baixo",
+    "sola": "copo",
+    "material": "couro",
+    "pecas": [
+     "biqueira",
+     "recorteCalcanhar",
+     "ilhos"
+    ],
+    "perfuracao": true,
+    "cadarco": "fino"
+   },
+   "colorways": [
+    {
+     "id": "branco-vermelho-verde",
+     "nome": "Branco/Vermelho/Verde",
+     "cores": {
+      "cabedal": "#f4f3ef",
+      "sobreposicao": "#b8142c",
+      "entressola": "#f4f3ef",
+      "solado": "#1f9e6a",
+      "cadarco": "#b8142c",
+      "detalhe": "#1f9e6a",
+      "forro": "#1f9e6a"
+     }
+    }
+   ],
+   "miniatura": "./miniaturas/tenis/tnatal/{cw}.png",
+   "arquivo3d": null,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "pes",
+    "osso": "pe"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "padrao",
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": "natal",
+   "tags": [],
+   "licenca": {
+    "tipo": "Modelo próprio (procedural)",
+    "autor": "Equipe PREMIER — geometria gerada em código",
+    "url_origem": null,
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  },
+  {
+   "id": "camiseta-basica",
+   "nome": "Camiseta Básica",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Básicos",
+   "modelo": {
+    "corpo": "justa",
+    "manga": "curta",
+    "gola": "redonda"
+   },
+   "colorways": [
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f0f0ee",
+      "detalhe": "#f0f0ee",
+      "tinta": "#f0f0ee"
+     }
+    },
+    {
+     "id": "off",
+     "nome": "Off-white",
+     "cores": {
+      "base": "#e6dfcf",
+      "detalhe": "#e6dfcf",
+      "tinta": "#e6dfcf"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza claro",
+     "cores": {
+      "base": "#b9bcc0",
+      "detalhe": "#b9bcc0",
+      "tinta": "#b9bcc0"
+     }
+    },
+    {
+     "id": "grafite",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#45474c",
+      "detalhe": "#45474c",
+      "tinta": "#45474c"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#232326",
+      "detalhe": "#232326",
+      "tinta": "#232326"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Azul-marinho",
+     "cores": {
+      "base": "#26324f",
+      "detalhe": "#26324f",
+      "tinta": "#26324f"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "camiseta_basica",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_basica.md"
+   }
+  },
+  {
+   "id": "camiseta-ajustada",
+   "nome": "Camiseta Ajustada",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Camisetas",
+   "modelo": {
+    "corpo": "justa",
+    "manga": "curta",
+    "gola": "redonda"
+   },
+   "colorways": [
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f0f0ee",
+      "detalhe": "#f0f0ee",
+      "tinta": "#f0f0ee"
+     }
+    },
+    {
+     "id": "off",
+     "nome": "Off-white",
+     "cores": {
+      "base": "#e6dfcf",
+      "detalhe": "#e6dfcf",
+      "tinta": "#e6dfcf"
+     }
+    },
+    {
+     "id": "cinza",
+     "nome": "Cinza claro",
+     "cores": {
+      "base": "#b9bcc0",
+      "detalhe": "#b9bcc0",
+      "tinta": "#b9bcc0"
+     }
+    },
+    {
+     "id": "grafite",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#45474c",
+      "detalhe": "#45474c",
+      "tinta": "#45474c"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#232326",
+      "detalhe": "#232326",
+      "tinta": "#232326"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Azul-marinho",
+     "cores": {
+      "base": "#26324f",
+      "detalhe": "#26324f",
+      "tinta": "#26324f"
+     }
+    },
+    {
+     "id": "azul",
+     "nome": "Azul",
+     "cores": {
+      "base": "#3f6fb0",
+      "detalhe": "#3f6fb0",
+      "tinta": "#3f6fb0"
+     }
+    },
+    {
+     "id": "vermelho",
+     "nome": "Vermelho",
+     "cores": {
+      "base": "#a3302e",
+      "detalhe": "#a3302e",
+      "tinta": "#a3302e"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#3e6b4b",
+      "detalhe": "#3e6b4b",
+      "tinta": "#3e6b4b"
+     }
+    },
+    {
+     "id": "oliva",
+     "nome": "Verde oliva",
+     "cores": {
+      "base": "#5b6136",
+      "detalhe": "#5b6136",
+      "tinta": "#5b6136"
+     }
+    },
+    {
+     "id": "mostarda",
+     "nome": "Mostarda",
+     "cores": {
+      "base": "#c99a2e",
+      "detalhe": "#c99a2e",
+      "tinta": "#c99a2e"
+     }
+    },
+    {
+     "id": "rosa",
+     "nome": "Rosa",
+     "cores": {
+      "base": "#d98ca0",
+      "detalhe": "#d98ca0",
+      "tinta": "#d98ca0"
+     }
+    },
+    {
+     "id": "lilas",
+     "nome": "Lilás",
+     "cores": {
+      "base": "#9c87c9",
+      "detalhe": "#9c87c9",
+      "tinta": "#9c87c9"
+     }
+    },
+    {
+     "id": "premier",
+     "nome": "Laranja PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#f88e12",
+      "tinta": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "camiseta_ajustada",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_ajustada.md"
+   }
+  },
+  {
+   "id": "camiseta-manga-longa",
+   "nome": "Camiseta Manga Longa",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Camisetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "redonda"
+   },
+   "colorways": [
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f0f0ee",
+      "detalhe": "#f0f0ee",
+      "tinta": "#f0f0ee"
+     }
+    },
+    {
+     "id": "off",
+     "nome": "Off-white",
+     "cores": {
+      "base": "#e6dfcf",
+      "detalhe": "#e6dfcf",
+      "tinta": "#e6dfcf"
+     }
+    },
+    {
+     "id": "grafite",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#45474c",
+      "detalhe": "#45474c",
+      "tinta": "#45474c"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#232326",
+      "detalhe": "#232326",
+      "tinta": "#232326"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Azul-marinho",
+     "cores": {
+      "base": "#26324f",
+      "detalhe": "#26324f",
+      "tinta": "#26324f"
+     }
+    },
+    {
+     "id": "vermelho",
+     "nome": "Vermelho",
+     "cores": {
+      "base": "#a3302e",
+      "detalhe": "#a3302e",
+      "tinta": "#a3302e"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#3e6b4b",
+      "detalhe": "#3e6b4b",
+      "tinta": "#3e6b4b"
+     }
+    },
+    {
+     "id": "oliva",
+     "nome": "Verde oliva",
+     "cores": {
+      "base": "#5b6136",
+      "detalhe": "#5b6136",
+      "tinta": "#5b6136"
+     }
+    },
+    {
+     "id": "mostarda",
+     "nome": "Mostarda",
+     "cores": {
+      "base": "#c99a2e",
+      "detalhe": "#c99a2e",
+      "tinta": "#c99a2e"
+     }
+    },
+    {
+     "id": "premier",
+     "nome": "Laranja PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#f88e12",
+      "tinta": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "camiseta_manga_longa",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camiseta_manga_longa.md"
+   }
+  },
+  {
+   "id": "top-esportivo",
+   "nome": "Top Cropped",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Camisetas",
+   "modelo": {
+    "corpo": "justa",
+    "manga": "curta",
+    "gola": "redonda",
+    "cropped": true
+   },
+   "colorways": [
+    {
+     "id": "branco",
+     "nome": "Branco",
+     "cores": {
+      "base": "#f0f0ee",
+      "detalhe": "#f0f0ee",
+      "tinta": "#f0f0ee"
+     }
+    },
+    {
+     "id": "grafite",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#45474c",
+      "detalhe": "#45474c",
+      "tinta": "#45474c"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#232326",
+      "detalhe": "#232326",
+      "tinta": "#232326"
+     }
+    },
+    {
+     "id": "azul",
+     "nome": "Azul",
+     "cores": {
+      "base": "#3f6fb0",
+      "detalhe": "#3f6fb0",
+      "tinta": "#3f6fb0"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#3e6b4b",
+      "detalhe": "#3e6b4b",
+      "tinta": "#3e6b4b"
+     }
+    },
+    {
+     "id": "rosa",
+     "nome": "Rosa",
+     "cores": {
+      "base": "#d98ca0",
+      "detalhe": "#d98ca0",
+      "tinta": "#d98ca0"
+     }
+    },
+    {
+     "id": "lilas",
+     "nome": "Lilás",
+     "cores": {
+      "base": "#9c87c9",
+      "detalhe": "#9c87c9",
+      "tinta": "#9c87c9"
+     }
+    },
+    {
+     "id": "premier",
+     "nome": "Laranja PREMIER",
+     "cores": {
+      "base": "#f88e12",
+      "detalhe": "#f88e12",
+      "tinta": "#f88e12"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "top_esportivo",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-top_esportivo.md"
+   }
+  },
+  {
+   "id": "camisa-listrada",
+   "nome": "Camisa Listrada",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Camisas & Jaquetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "polo",
+    "listras": 5
+   },
+   "colorways": [
+    {
+     "id": "original",
+     "nome": "Listrada",
+     "cores": {
+      "base": "#dfe3ea",
+      "detalhe": "#4a6a9a",
+      "tinta": "#ffffff"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "camisa_listrada",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-camisa_listrada.md"
+   }
+  },
+  {
+   "id": "blusa-social",
+   "nome": "Blusa Social",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Camisas & Jaquetas",
+   "modelo": {
+    "corpo": "justa",
+    "manga": "longa",
+    "gola": "polo",
+    "listras": 5
+   },
+   "colorways": [
+    {
+     "id": "original",
+     "nome": "Listrada",
+     "cores": {
+      "base": "#e9e9ef",
+      "detalhe": "#7a8094",
+      "tinta": "#ffffff"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "blusa_social",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-blusa_social.md"
+   }
+  },
+  {
+   "id": "jaqueta-casual",
+   "nome": "Jaqueta Utilitária",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Camisas & Jaquetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "alta",
+    "ziper": true
+   },
+   "colorways": [
+    {
+     "id": "original",
+     "nome": "Verde militar",
+     "cores": {
+      "base": "#3d4a3c",
+      "detalhe": "#2a2a2a",
+      "tinta": "#ffffff"
+     }
+    },
+    {
+     "id": "grafite",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#3f4146",
+      "detalhe": "#2a2a2a",
+      "tinta": "#7d7f86"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#202124",
+      "detalhe": "#2a2a2a",
+      "tinta": "#4a4b50"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "jaqueta",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-jaqueta.md"
+   }
+  },
+  {
+   "id": "paleto",
+   "nome": "Paletó Social",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "superior",
+   "slot": "top",
+   "grupo": "Camisas & Jaquetas",
+   "modelo": {
+    "corpo": "regular",
+    "manga": "longa",
+    "gola": "polo"
+   },
+   "colorways": [
+    {
+     "id": "original",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#33363d",
+      "detalhe": "#e9e9ef",
+      "tinta": "#ffffff"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "paleto",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-paleto.md"
+   }
+  },
+  {
+   "id": "short-base",
+   "nome": "Short Ajustado",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "inferior",
+   "slot": "bottom",
+   "grupo": "Básicos",
+   "modelo": {
+    "corte": "bermuda"
+   },
+   "colorways": [
+    {
+     "id": "cinza",
+     "nome": "Cinza claro",
+     "cores": {
+      "base": "#b9bcc0",
+      "detalhe": "#b9bcc0",
+      "tinta": "#b9bcc0"
+     }
+    },
+    {
+     "id": "grafite",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#45474c",
+      "detalhe": "#45474c",
+      "tinta": "#45474c"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#232326",
+      "detalhe": "#232326",
+      "tinta": "#232326"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Azul-marinho",
+     "cores": {
+      "base": "#26324f",
+      "detalhe": "#26324f",
+      "tinta": "#26324f"
+     }
+    },
+    {
+     "id": "oliva",
+     "nome": "Verde oliva",
+     "cores": {
+      "base": "#5b6136",
+      "detalhe": "#5b6136",
+      "tinta": "#5b6136"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "short_base",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-short_base.md"
+   }
+  },
+  {
+   "id": "legging",
+   "nome": "Legging",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "inferior",
+   "slot": "bottom",
+   "grupo": "Calças",
+   "modelo": {
+    "corte": "jogger"
+   },
+   "colorways": [
+    {
+     "id": "grafite",
+     "nome": "Grafite",
+     "cores": {
+      "base": "#45474c",
+      "detalhe": "#45474c",
+      "tinta": "#45474c"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preto",
+     "cores": {
+      "base": "#232326",
+      "detalhe": "#232326",
+      "tinta": "#232326"
+     }
+    },
+    {
+     "id": "marinho",
+     "nome": "Azul-marinho",
+     "cores": {
+      "base": "#26324f",
+      "detalhe": "#26324f",
+      "tinta": "#26324f"
+     }
+    },
+    {
+     "id": "verde",
+     "nome": "Verde",
+     "cores": {
+      "base": "#3e6b4b",
+      "detalhe": "#3e6b4b",
+      "tinta": "#3e6b4b"
+     }
+    },
+    {
+     "id": "rosa",
+     "nome": "Rosa",
+     "cores": {
+      "base": "#d98ca0",
+      "detalhe": "#d98ca0",
+      "tinta": "#d98ca0"
+     }
+    },
+    {
+     "id": "lilas",
+     "nome": "Lilás",
+     "cores": {
+      "base": "#9c87c9",
+      "detalhe": "#9c87c9",
+      "tinta": "#9c87c9"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "legging",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-legging.md"
+   }
+  },
+  {
+   "id": "calca-social",
+   "nome": "Calça Social",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "inferior",
+   "slot": "bottom",
+   "grupo": "Calças",
+   "modelo": {
+    "corte": "reta"
+   },
+   "colorways": [
+    {
+     "id": "original",
+     "nome": "Preta",
+     "cores": {
+      "base": "#1d1d20",
+      "detalhe": "#2a2a2a",
+      "tinta": "#ffffff"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "calca_social",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-calca_social.md"
+   }
+  },
+  {
+   "id": "short-jeans",
+   "nome": "Short Jeans",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "inferior",
+   "slot": "bottom",
+   "grupo": "Shorts & Saias",
+   "modelo": {
+    "corte": "bermuda",
+    "costura": true
+   },
+   "colorways": [
+    {
+     "id": "classico",
+     "nome": "Jeans",
+     "cores": {
+      "base": "#3d5f8f",
+      "detalhe": "#c08a4e",
+      "tinta": "#ffffff"
+     }
+    },
+    {
+     "id": "escuro",
+     "nome": "Jeans escuro",
+     "cores": {
+      "base": "#1f2c45",
+      "detalhe": "#c08a4e",
+      "tinta": "#8c95ad"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preta",
+     "cores": {
+      "base": "#181818",
+      "detalhe": "#5a5a5a",
+      "tinta": "#55565c"
+     }
+    },
+    {
+     "id": "claro",
+     "nome": "Jeans claro",
+     "cores": {
+      "base": "#8fb0d6",
+      "detalhe": "#c08a4e",
+      "tinta": "#ffffff",
+      "lavagem": 0.55
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "short_jeans",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "m",
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-short_jeans.md"
+   }
+  },
+  {
+   "id": "saia",
+   "nome": "Saia Reta",
+   "marca": null,
+   "categoria": "roupas",
+   "subcategoria": "inferior",
+   "slot": "bottom",
+   "grupo": "Shorts & Saias",
+   "modelo": {
+    "corte": "saia"
+   },
+   "colorways": [
+    {
+     "id": "original",
+     "nome": "Original",
+     "cores": {
+      "base": "#3a3d4a",
+      "detalhe": "#2a2a2a",
+      "tinta": "#ffffff"
+     }
+    },
+    {
+     "id": "escuro",
+     "nome": "Escura",
+     "cores": {
+      "base": "#2a2c34",
+      "detalhe": "#2a2a2a",
+      "tinta": "#7d7f86"
+     }
+    },
+    {
+     "id": "preto",
+     "nome": "Preta",
+     "cores": {
+      "base": "#1d1d20",
+      "detalhe": "#2a2a2a",
+      "tinta": "#4a4b50"
+     }
+    }
+   ],
+   "miniatura": null,
+   "arquivo3d": null,
+   "roupaMH": "saia",
+   "skinned": true,
+   "escala": 1,
+   "encaixe": {
+    "grupo": "corpo",
+    "osso": "esqueleto"
+   },
+   "compatibilidade": {
+    "sexo": [
+     "f"
+    ],
+    "corpo": [
+     "makehuman"
+    ]
+   },
+   "status": "publicado",
+   "conquista": null,
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman Community (makehuman_system_assets), ajustada com MPFB 2",
+    "url_origem": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+    "atribuicao": null,
+    "uso_comercial": true,
+    "ficha": "./licencas/makehuman-roupa-saia.md"
+   }
+  }
+ ],
+ "ambiente": {
+  "id": "hdr-studio-small-09",
+  "hdr": "./texturas/studio_small_09_1k.hdr",
+  "intensidade": 0.55,
+  "status": "publicado",
+  "licenca": {
+   "tipo": "CC0-1.0",
+   "autor": "Sergej Majboroda / Poly Haven",
+   "url_origem": "https://polyhaven.com/a/studio_small_09",
+   "atribuicao": null,
+   "uso_comercial": true
+  }
+ },
+ "texturas": {
+  "denim_fabric": {
+   "normal": "./texturas/denim_fabric/denim_fabric_nor_gl_1k.jpg",
+   "rugosidade": "./texturas/denim_fabric/denim_fabric_rough_1k.jpg",
+   "repeticao": [
+    3,
+    3
+   ],
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "Poly Haven",
+    "url_origem": "https://polyhaven.com/a/denim_fabric",
+    "atribuicao": null,
+    "uso_comercial": true
+   }
+  }
+ },
+ "props": [],
+ "corposBase": [
+  {
+   "id": "makehuman",
+   "tipo": "makehuman",
+   "nome": "Corpo-base MakeHuman (MPFB, rig game engine)",
+   "status": "publicado",
+   "observacao": "Corpo realista CC0. Sempre vestido: roupas CC0 reais do MakeHuman presas ao mesmo esqueleto; a pele coberta não é desenhada (máscara por triângulo). Camada base real (camiseta básica + short) quando falta top/bottom. Textura de pele neutra, sem mamilos.",
+   "pasta": "./modelos/corpo/makehuman/",
+   "corpos": {
+    "m": {
+     "lod0": "corpo_masculino_lod0.glb",
+     "lod1": "corpo_masculino_lod1.glb"
+    },
+    "f": {
+     "lod0": "corpo_feminino_lod0.glb",
+     "lod1": "corpo_feminino_lod1.glb"
+    }
+   },
+   "biotipos": {
+    "m": {
+     "magro": {
+      "peso_menos": 0.6,
+      "musculo_menos": 0.25
+     },
+     "medio": {},
+     "atletico": {
+      "musculo_mais": 1,
+      "peso_mais": 0.15,
+      "ombros_largos": 0.5,
+      "cintura_fina": 0.3
+     },
+     "robusto": {
+      "peso_mais": 0.65,
+      "barriga": 0.15
+     }
+    },
+    "f": {
+     "magro": {
+      "peso_menos": 0.6,
+      "musculo_menos": 0.25
+     },
+     "medio": {},
+     "atletico": {
+      "musculo_mais": 1,
+      "peso_mais": 0.15,
+      "ombros_largos": 0.5,
+      "cintura_fina": 0.3
+     },
+     "robusto": {
+      "peso_mais": 0.65,
+      "barriga": 0.15
+     }
+    }
+   },
+   "escalaTenis": {
+    "m": 0.99,
+    "f": 0.87
+   },
+   "ossos": {
+    "quadril": "pelvis",
+    "tronco": "spine_03",
+    "pescoco": "neck_01",
+    "cabeca": "head",
+    "pe_esq": "foot_l",
+    "pe_dir": "foot_r",
+    "dedos_esq": "ball_l",
+    "dedos_dir": "ball_r",
+    "mao_esq": "hand_l",
+    "mao_dir": "hand_r"
+   },
+   "licenca": {
+    "tipo": "CC0-1.0",
+    "autor": "MakeHuman / MPFB (exportado pela equipe)",
+    "url_origem": "https://static.makehumancommunity.org/",
+    "atribuicao": null,
+    "uso_comercial": true
+   },
+   "roupas": "./modelos/roupas/makehuman/roupas.json",
+   "roupaBase": {
+    "top": "camiseta-basica",
+    "bottom": "short-base"
+   }
+  }
+ ]
+}
